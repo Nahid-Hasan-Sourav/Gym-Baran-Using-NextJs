@@ -4,7 +4,7 @@ import { AiOutlineArrowRight } from 'react-icons/ai';
 
 const GetStarted = () => {
     return (
-        <div className="my-24">
+        <div className="py-24">
             <div className="grid md:grid-cols-2">
             <div className=" flex items-center justify-center sm:px-0 px-7">
             <Image src={workOut} alt="image" width="80%" height="80%" ></Image>
